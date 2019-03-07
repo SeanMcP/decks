@@ -4,6 +4,7 @@
   "description": "🗣 A monorepo of talk decks",
   "main": "index.js",
   "scripts": {
+    "start": "mdx-deck react-a11y/deck.mdx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
