@@ -1,0 +1,23 @@
+{
+  "name": "decks",
+  "version": "1.0.0",
+  "description": "🗣 A monorepo of talk decks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanMcP/decks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanMcP/decks/issues"
+  },
+  "homepage": "https://github.com/SeanMcP/decks#readme",
+  "devDependencies": {
+    "mdx-deck": "^1.10.0"
+  }
+}
