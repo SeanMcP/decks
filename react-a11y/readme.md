@@ -41,7 +41,7 @@
   - [ ] aXe
   - [ ] Lighthouse
 - [ ] Tools
-  - `react-axe` and `react-a11y`
+  - `react-axe`
   - `jsx-a11y`
 - [ ] Resources
   - React docs
