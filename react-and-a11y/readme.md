@@ -12,12 +12,16 @@
 - [ ] Title
 - [ ] About
 - [ ] What is accessibility?
-  - [ ] Overview
+  - [x] Overview
+  - [ ] Assumptions
   - [ ] Universal design
-  - [ ] Disability categories
+  - [x] Disability categories
 - [ ] Why this is necessary
   - Ethical
   - Legal
+    - UN
+    - ADA
+      - [https://www.ada.gov/2010ADAstandards_index.htm]
 - [ ] WCAG
   - [ ] 1.0
   - [ ] 2.0
@@ -40,9 +44,12 @@
 - [ ] Basic accessibility auditing
   - [ ] aXe
   - [ ] Lighthouse
+  - [ ] Manual testing
 - [ ] Tools
   - `react-axe`
   - `jsx-a11y`
+- [ ] Recommendations
+  - Focus early, often
 - [ ] Resources
   - React docs
   - Deque University
